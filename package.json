@@ -1,0 +1,19 @@
+{
+  "name": "commonlibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sandeepcysrc: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@github.com/sandeepcysrc/commonlibrary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepcysrc/commonlibrary/issues"
+  },
+  "homepage": "https://github.com/sandeepcysrc/commonlibrary#readme"
+}
